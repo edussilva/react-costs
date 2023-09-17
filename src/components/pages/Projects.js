@@ -6,7 +6,7 @@ import Container from '../layout/Container'
 import Loading from '../layout/Loading'
 import LinkButton from '../layout/LinkButton'
 
-import styles from './Project.module.css'
+import styles from './Projects.module.css'
 import ProjectCard from "../project/ProjectCard"
 
 
